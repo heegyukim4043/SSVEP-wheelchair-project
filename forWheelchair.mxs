@@ -526,7 +526,7 @@
 					<TypeIdentifier>(0x330306dd, 0x74a95f98)</TypeIdentifier>
 					<Name>Matlab executable (path)</Name>
 					<DefaultValue>C:/Program Files (x86)/MATLAB/R2013b/bin/win32/matlab.exe</DefaultValue>
-					<Value>C:/Program Files/MATLAB/R2020a/bin/win64/MATLAB.exe</Value>
+					<Value>C:/Program Files/MATLAB/R2020b/bin/win64/MATLAB.exe</Value>
 					<Modifiability>false</Modifiability>
 				</Setting>
 				<Setting>
@@ -683,14 +683,14 @@
 					<TypeIdentifier>(0x512a166f, 0x5c3ef83f)</TypeIdentifier>
 					<Name>Epoch duration (in sec)</Name>
 					<DefaultValue>1</DefaultValue>
-					<Value>3</Value>
+					<Value>5</Value>
 					<Modifiability>false</Modifiability>
 				</Setting>
 				<Setting>
 					<TypeIdentifier>(0x512a166f, 0x5c3ef83f)</TypeIdentifier>
 					<Name>Epoch offset (in sec)</Name>
 					<DefaultValue>0.5</DefaultValue>
-					<Value>0</Value>
+					<Value>0.1</Value>
 					<Modifiability>false</Modifiability>
 				</Setting>
 				<Setting>
@@ -923,7 +923,7 @@
 		</Box>
 		<Box>
 			<Identifier>(0x00006270, 0x00004610)</Identifier>
-			<Name>1;7;9;14;15</Name>
+			<Name>1;7;9;14;13;15;22</Name>
 			<AlgorithmClassIdentifier>(0x361722e8, 0x311574e8)</AlgorithmClassIdentifier>
 			<Inputs>
 				<Input>
@@ -942,7 +942,7 @@
 					<TypeIdentifier>(0x79a9edeb, 0x245d83fc)</TypeIdentifier>
 					<Name>Channel List</Name>
 					<DefaultValue>:</DefaultValue>
-					<Value>1;7;9;14;15</Value>
+					<Value>1;7;9;14;13;15;22</Value>
 					<Modifiability>false</Modifiability>
 				</Setting>
 				<Setting>
