@@ -1,3 +1,5 @@
+Please Check the: for BCI wheelchair.pptx
+
 BCI speller function: 
 square_flicker_4class_joint_phase_fixed_feedback.m 
 
