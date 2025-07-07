@@ -1,4 +1,4 @@
-Please Check the: for BCI wheelchair.pptx
+Please Check: for BCI wheelchair.pptx
 
 BCI whellchair function: 
 square_flicker_4class_joint_phase_fixed_feedback.m 
