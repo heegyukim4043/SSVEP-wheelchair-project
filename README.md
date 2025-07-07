@@ -1,7 +1,10 @@
 Please Check the: for BCI wheelchair.pptx
 
-BCI speller function: 
+BCI whellchair function: 
 square_flicker_4class_joint_phase_fixed_feedback.m 
+
+BCI speller function: 
+square_flicker_40class_joint_phase_fixed_feedback.m
 
 PTB-3 
 recommended ver. 3.0.19
